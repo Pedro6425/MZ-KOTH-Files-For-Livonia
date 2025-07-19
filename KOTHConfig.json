@@ -376,9 +376,9 @@
     {
       "Name": "Branzow Castle East",
       "Reward_Position": [
-        2053.768310546875,
-        287.818359375,
-        11144.404296875
+        2053.768311,
+        287.818359,
+        11144.404297
       ],
       "Reward_Orientation": [
         0,
@@ -394,9 +394,9 @@
     {
       "Name": "Brena Military Checkpoint",
       "Reward_Position": [
-        6433.09521484375,
-        174.6945343017578,
-        10974.607421875
+        6415.095215,
+        174.694534,
+        10986.607422
       ],
       "Reward_Orientation": [
         0,
@@ -414,9 +414,9 @@
     {
       "Name": "Krsnik Military",
       "Reward_Position": [
-        7817.7294921875,
-        339.45245361328127,
-        10094.5126953125
+        7817.729492,
+        339.452454,
+        10094.512695
       ],
       "Reward_Orientation": [
         0,
@@ -432,9 +432,9 @@
     {
       "Name": "Grabin Military Checkpoint",
       "Reward_Position": [
-        11125.9990234375,
-        174.1124725341797,
-        11401.9091796875
+        11125.999023,
+        174.112473,
+        11401.909180
       ],
       "Reward_Orientation": [
         0,
@@ -450,9 +450,9 @@
     {
       "Name": "Sitnik Military",
       "Reward_Position": [
-        11125.9990234375,
-        174.1124725341797,
-        11401.9091796875
+        11002.925781,
+        185.502502,
+        9018.403320
       ],
       "Reward_Orientation": [
         0,
@@ -468,9 +468,9 @@
     {
       "Name": "Lembork",
       "Reward_Position": [
-        11125.9990234375,
-        174.1124725341797,
-        11401.9091796875
+        9075.165039,
+        299.749725,
+        6636.341309
       ],
       "Reward_Orientation": [
         0,
@@ -486,9 +486,9 @@
     {
       "Name": "Rodzanica Military",
       "Reward_Position": [
-        11125.9990234375,
-        174.1124725341797,
-        11401.9091796875
+        8921.881836,
+        472.476898,
+        2068.079590
       ],
       "Reward_Orientation": [
         0,
@@ -504,9 +504,9 @@
     {
       "Name": "Swarog Military",
       "Reward_Position": [
-        11125.9990234375,
-        174.1124725341797,
-        11401.9091796875
+        4939.676758,
+        523.499939,
+        2088.232666
       ],
       "Reward_Orientation": [
         0,
@@ -522,9 +522,9 @@
     {
       "Name": "Polana Military Checkpoint",
       "Reward_Position": [
-        11125.9990234375,
-        174.1124725341797,
-        11401.9091796875
+        3349.571045,
+        487.076538,
+        2027.167480
       ],
       "Reward_Orientation": [
         0,
@@ -540,9 +540,9 @@
     {
       "Name": "Nadbor Military",
       "Reward_Position": [
-        11125.9990234375,
-        174.1124725341797,
-        11401.9091796875
+        5636.158691,
+        422.182434,
+        3823.485596
       ],
       "Reward_Orientation": [
         0,
@@ -558,9 +558,9 @@
     {
       "Name": "Radunin Military",
       "Reward_Position": [
-        11125.9990234375,
-        174.1124725341797,
-        11401.9091796875
+        7664.178711,
+        233.168793,
+        5978.813965
       ],
       "Reward_Orientation": [
         0,
@@ -576,9 +576,9 @@
     {
       "Name": "Muratyn Military",
       "Reward_Position": [
-        11125.9990234375,
-        174.1124725341797,
-        11401.9091796875
+        4425.801758,
+        316.134796,
+        6696.745605
       ],
       "Reward_Orientation": [
         0,
@@ -594,81 +594,9 @@
     {
       "Name": "Nidek Military",
       "Reward_Position": [
-        11125.9990234375,
-        174.1124725341797,
-        11401.9091796875
-      ],
-      "Reward_Orientation": [
-        0,
-        0,
-        0
-      ],
-      "Capture_Radius": 100,
-      "Enemies_Count": 15,
-      "Reward_Loot_Count": 6,
-      "Reward_Container_Classnames": [],
-      "Static_Objects": []
-    },
-    {
-      "Name": "Nadbor Military",
-      "Reward_Position": [
-        11125.9990234375,
-        174.1124725341797,
-        11401.9091796875
-      ],
-      "Reward_Orientation": [
-        0,
-        0,
-        0
-      ],
-      "Capture_Radius": 100,
-      "Enemies_Count": 15,
-      "Reward_Loot_Count": 6,
-      "Reward_Container_Classnames": [],
-      "Static_Objects": []
-    },
-    {
-      "Name": "Nidek Military",
-      "Reward_Position": [
-        11125.9990234375,
-        174.1124725341797,
-        11401.9091796875
-      ],
-      "Reward_Orientation": [
-        0,
-        0,
-        0
-      ],
-      "Capture_Radius": 100,
-      "Enemies_Count": 15,
-      "Reward_Loot_Count": 6,
-      "Reward_Container_Classnames": [],
-      "Static_Objects": []
-    },
-    {
-      "Name": "Radunin Military",
-      "Reward_Position": [
-        11125.9990234375,
-        174.1124725341797,
-        11401.9091796875
-      ],
-      "Reward_Orientation": [
-        0,
-        0,
-        0
-      ],
-      "Capture_Radius": 100,
-      "Enemies_Count": 15,
-      "Reward_Loot_Count": 6,
-      "Reward_Container_Classnames": [],
-      "Static_Objects": []
-    },
-    {
-      "Name": "Muratyn Military",
-      "Reward_Position": [
-        11125.9990234375,
-        174.1124725341797,
-        11401.9091796875
+        6410.644531,
+        223.470367,
+        8176.333008
       ],
       "Reward_Orientation": [
         0,
@@ -684,9 +612,9 @@
     {
       "Name": "Borek",
       "Reward_Position": [
-        11125.9990234375,
-        174.1124725341797,
-        11401.9091796875
+        9789.502930,
+        212.363983,
+        8452.084961
       ],
       "Reward_Orientation": [
         0,
@@ -700,23 +628,6 @@
       "Static_Objects": []
     },
     {
-      "Name": "Downed Helicopter",
-      "Reward_Position": [
-        144.31246948242188,
-        174.1124725341797,
-        8073.83740234375
-      ],
-      "Reward_Orientation": [
-        0,
-        0,
-        0
-      ],
-      "Capture_Radius": 40,
-      "Enemies_Count": 15,
-      "Reward_Loot_Count": 6,
-      "Reward_Container_Classnames": [],
-      "Static_Objects": [
-        {
           "ClassName": "StaticObj_Wreck_Mi8_Crashed",
           "Scale": 1,
           "Position": [
